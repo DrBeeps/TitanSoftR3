@@ -1,0 +1,45 @@
+
+# TitanSoftR3
+Flight software made to fly on the titan flight computer. The titan flight computer
+controls the Stryfe rocket, which has yet to be flown.
+
+### Flight Software
+- [ ] State Changes
+    - [ ] Launch detection
+    - [ ] Burnout detection
+    - [ ] Apogee detection
+    - [ ] Chute Deploy detection
+    - [ ] Landed detection
+    - [ ] Show Safe
+    - [ ] Abort detection and deployment
+
+- [ ] Data Logging
+    - [ ] Paste in log code from previous codebase
+    - [ ] Reformat for single function use with no passed in arguments
+    - [ ] Test logging with new MCU
+    - [ ] Add new timing and select log frequency
+ 
+- [ ] Git Integration
+    - [ ] Setup project for better github workflow
+    - [ ] Prepare github repo
+    - [ ] Split and format files
+
+
+### GNC
+- [ ] Verify GNC System
+    - [ ] Servo +/-
+    - [ ] TVC Mount +/-
+    - [ ] Full vehicle integration
+
+- [ ] Simulation
+    - [ ] Fully integrate vehicle
+    - [ ] Weight vehicle
+    - [ ] Redo simulation measurements (Moment arm + MMOI)
+
+### Mechanical
+- [ ] Static fire prep
+    - [ ] Prepare new mount arm
+    - [ ] Secure new table with weights
+    - [ ] Setup camera positions 
+    - [ ] Safety barriers and PPE
+
